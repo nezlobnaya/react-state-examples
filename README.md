@@ -7,6 +7,12 @@ Five ways to implement global state management in a React application using the 
 
 ### 2. Click [MobX](https://github.com/nezlobnaya/react-state-examples/blob/main/src/mobx.js) 
 
+### 3. Click [XState](https://github.com/nezlobnaya/react-state-examples/blob/main/src/xstate.js) 
+
+### 4. Click [ ] (https://github.com/nezlobnaya/react-state-examples/) 
+
+### 5. Click [ ] (https://github.com/nezlobnaya/react-state-examples/) 
+
 
 
 
