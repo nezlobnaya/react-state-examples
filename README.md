@@ -9,7 +9,7 @@ Five ways to implement global state management in a React application using the 
 
 ### 3. Click [XState](https://github.com/nezlobnaya/react-state-examples/blob/main/src/xstate.js) 
 
-### 4. Click [Redux] (https://github.com/nezlobnaya/react-state-examples/blob/main/src/redux.js) 
+### 4. Click [Redux](https://github.com/nezlobnaya/react-state-examples/blob/main/src/redux.js) 
 
 ### 5. Click [ ] (https://github.com/nezlobnaya/react-state-examples/) 
 
