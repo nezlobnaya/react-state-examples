@@ -5,7 +5,7 @@ Five ways to implement global state management in a React application using the 
 
 ### 1. Click [Recoil](https://github.com/nezlobnaya/react-state-examples/blob/main/src/recoil.js) to view it in the browser.
 
-### 2. Click [Recoil](https://github.com/nezlobnaya/react-state-examples/blob/main/src/mobx.js) 
+### 2. Click [MobX](https://github.com/nezlobnaya/react-state-examples/blob/main/src/mobx.js) 
 
 
 
