@@ -1,10 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## React State 5 Ways
 
-In the project directory, you can run:
+Five ways to implement global state management in a React application using the same pattern across 5 of the most popular libraries and APIs using the most modern and up-to-date versions of the libraries:
 
-### `yarn start`
+### `Recoil`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
