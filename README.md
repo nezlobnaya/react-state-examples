@@ -3,11 +3,8 @@
 
 Five ways to implement global state management in a React application using the same pattern across 5 of the most popular libraries and APIs using the most modern and up-to-date versions of the libraries:
 
-### [Recoil]
+### [Recoil](https://github.com/nezlobnaya/react-state-examples/blob/main/src/recoil.js) to view it in the browser.
 
-<br />
-Open (https://github.com/nezlobnaya/react-state-examples/blob/main/src/recoil.js) to view it in the browser.
-<br />
 
 ### `yarn test`
 
